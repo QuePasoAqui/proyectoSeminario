@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">proyectoSeminario</string>
+    <string name="menu_titulo">Quien es ese Pokemon?</string>
+    <string name="menu_jugar">Jugar</string>
+
+</resources>
